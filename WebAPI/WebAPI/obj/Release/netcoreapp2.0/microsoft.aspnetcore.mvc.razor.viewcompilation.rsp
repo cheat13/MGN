@@ -1,0 +1,12 @@
+C:\Users\trago\Desktop\New folder\PlayGround\WebAPI\WebAPI
+--output-path=obj\Release\netcoreapp2.0\
+--application-name=WebAPI
+--content-root=C:\Users\trago\Desktop\New folder\PlayGround\WebAPI\WebAPI
+--file=C:\Users\trago\Desktop\New folder\PlayGround\WebAPI\WebAPI\Views\Home\About.cshtml
+--file=C:\Users\trago\Desktop\New folder\PlayGround\WebAPI\WebAPI\Views\Home\Contact.cshtml
+--file=C:\Users\trago\Desktop\New folder\PlayGround\WebAPI\WebAPI\Views\Home\Index.cshtml
+--file=C:\Users\trago\Desktop\New folder\PlayGround\WebAPI\WebAPI\Views\Shared\Error.cshtml
+--file=C:\Users\trago\Desktop\New folder\PlayGround\WebAPI\WebAPI\Views\Shared\_Layout.cshtml
+--file=C:\Users\trago\Desktop\New folder\PlayGround\WebAPI\WebAPI\Views\Shared\_ValidationScriptsPartial.cshtml
+--file=C:\Users\trago\Desktop\New folder\PlayGround\WebAPI\WebAPI\Views\_ViewImports.cshtml
+--file=C:\Users\trago\Desktop\New folder\PlayGround\WebAPI\WebAPI\Views\_ViewStart.cshtml
